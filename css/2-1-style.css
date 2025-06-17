@@ -269,6 +269,17 @@ p span {
 	padding-bottom: 0px;
 	padding-left: 80px;
 }
+#columnsleft_2t {
+	background-color: #FFFFFF;
+	width: 465px;
+	height: auto;
+	float: left;
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 40px;
+}
 
 #columnsright_2 {
 	background-color: #FFFFFF;
@@ -388,14 +399,14 @@ p span {
 #companyTitle2t {
 	width: 200px;
 	font-size: 15px;
-	font-weight:bold;
+	font-weight: bold;
 	background-color: #FFFFFF;
 	height: 25px;
 	margin: 0px;
 	padding-top: 0px;
 	padding-right: 0px;
 	padding-bottom: 0px;
-	padding-left: 80px;
+	padding-left: 40px;
 }
 #companyTitle3 {
 	width: 400px;
@@ -470,11 +481,11 @@ p span {
 	width: 370px;
 	height: 200px;
 	float: left;
-	margin:  0px;
+	margin: 0px;
 	padding-top: 0px;
 	padding-right: 10px;
 	padding-bottom: 0px;
-	padding-left: 80px;
+	padding-left: 40px;
 }
 
 #info_t {
