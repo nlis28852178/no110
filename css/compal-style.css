@@ -267,6 +267,17 @@ a:hover {color: #488E48; border-bottom: 0px solid #fff; background: transparent;
 	padding-bottom: 10px;
 	padding-left: 0px;
 }
+#A1_450_a {
+	background-color: #FFF;
+	width: 450px;
+	height: 260px;
+	float: none;
+	margin:  0px;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 10px;
+	padding-left: 0px;
+}
 #A1_450_01 {
 	width: 450px;
 	height: 100px;
